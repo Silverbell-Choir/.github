@@ -1,20 +1,19 @@
-## 변경 요약 / Summary
+<!-- English template: https://github.com/Silverbell-Choir/.github/blob/main/PULL_REQUEST_TEMPLATE.en.md -->
 
-이 Pull Request의 목적을 설명해 주세요.  
-*Describe the purpose of this pull request.*
+## 요약
 
-## 변경 내용 / Changes
+이 Pull Request의 목적을 설명해 주세요.
+
+## 변경 사항
 
 - 
 - 
 - 
 
-## 검증 / Validation
+## 검증
 
-확인하거나 테스트한 내용을 작성해 주세요.  
-*Describe what was checked or tested.*
+어떤 확인 또는 테스트를 수행했는지 적어 주세요.
 
-## 추가 사항 / Notes
+## 추가 정보
 
-리뷰어가 알아야 할 내용, 후속 작업, 기타 맥락이 있다면 작성해 주세요.  
-*Add any extra context, follow-up work, or reviewer notes here.*
+리뷰어가 알아야 할 내용, 후속 작업, 관련 이슈가 있다면 적어 주세요.
