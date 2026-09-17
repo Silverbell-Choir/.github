@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: SilverBell Choir Support Hub
+    url: https://github.com/Silverbell-Choir/silverbell-choir-support/issues/new/choose
+    about: Start here for bug reports, feature requests, and general support.
+  - name: Security reporting guidance
+    url: https://github.com/Silverbell-Choir/.github/blob/main/SECURITY.md
+    about: Read the security reporting process before opening a public issue.
